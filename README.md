@@ -1,6 +1,6 @@
 # 💫About Me :
-🔭 I’m currently working on Android Game
-🌱 I’m currently learning Software and internet technologies
+🔭 I’m currently working as a backend C#/.NET engineer and a python developer
+🌱 I'm currently in my final year of my Masters degree on Cybersecurity
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100034972248935) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/presley_petkov) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Preslav39474261) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preslav-petkov-5a7106244) 
